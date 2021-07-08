@@ -80,3 +80,13 @@ h2 {
 .b2:hover {
     width: 230px;
 }
+.contact {
+    background-color: lightsteelblue;
+}
+.contact h3 {
+    display: inline;
+    color: #E8EAF6;
+}
+.fa fa-envelope {
+    color: #E8EAF6;
+}
